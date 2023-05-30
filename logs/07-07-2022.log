@@ -1,0 +1,121 @@
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"virtual path is:  /socket.io","time":"2022-07-07T15:44:51.597Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Server started, Environment = production, Port = 9000, VirtualDirPath = /socket.io ","time":"2022-07-07T15:44:51.738Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Driver 987 connected","time":"2022-07-07T15:44:51.825Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T15:44:51.825Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T15:48:11.139Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T15:48:11.206Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T15:48:11.206Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T15:48:11.206Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T15:50:11.465Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T15:50:11.470Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T15:50:11.470Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T15:50:11.470Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T15:52:11.686Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T15:52:11.689Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T15:52:11.690Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T15:52:11.690Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T15:54:11.793Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T15:54:11.796Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T15:54:11.796Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T15:54:11.796Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T15:56:12.006Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T15:56:12.008Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T15:56:12.008Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T15:56:12.009Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T15:58:12.259Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T15:58:12.261Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T15:58:12.261Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T15:58:12.262Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:00:12.498Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:00:12.500Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:00:12.501Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:00:12.501Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:02:12.808Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:02:12.810Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:02:12.810Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:02:12.810Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:04:13.203Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:04:13.205Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:04:13.205Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:04:13.205Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:06:13.526Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:06:13.528Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:06:13.528Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:06:13.528Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:08:13.684Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:08:13.686Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:08:13.686Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:08:13.687Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:10:13.976Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:10:13.978Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:10:13.978Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:10:13.978Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:12:14.247Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:12:14.250Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:12:14.250Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:12:14.250Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:14:14.594Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:14:14.595Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:14:14.595Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:14:14.596Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:16:14.855Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:16:14.856Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:16:14.856Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:16:14.856Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:18:00.084Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:18:00.085Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:18:00.085Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:18:00.085Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:19:48.011Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:20:00.361Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:20:00.363Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:20:00.363Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:20:00.363Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:20:13.022Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:20:13.022Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:20:13.022Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:22:00.747Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:22:00.749Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:22:00.749Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:22:00.749Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:24:01.015Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:24:01.016Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:24:01.016Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:24:01.017Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:26:01.501Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:26:01.503Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:26:01.503Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:26:01.503Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:28:02.049Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:28:02.051Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:28:02.051Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:28:02.052Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:30:02.480Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:30:02.481Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:30:02.481Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:30:02.482Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:32:03.019Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:32:03.020Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:32:03.020Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:32:03.020Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:34:03.469Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:34:03.471Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:34:03.471Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:34:03.471Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:36:03.737Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:36:03.738Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:36:03.739Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:36:03.739Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:38:04.093Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:38:04.094Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:38:04.094Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:38:04.094Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:40:04.499Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:40:04.500Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:40:04.501Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:40:04.501Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"connection > Total clients: 1 ","time":"2022-07-07T16:42:04.953Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"sendToClient Input: {\"Method\":\"Testing\",\"Data\":\"Testing From Startup.CS\",\"driverId\":4}","time":"2022-07-07T16:42:04.955Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":30,"msg":"Sending undefined to driver undefined","time":"2022-07-07T16:42:04.955Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"sendToClient error: > Cannot read properties of undefined (reading 'socket')","time":"2022-07-07T16:42:04.955Z","v":0}
+{"name":"serverjs","hostname":"DESKTOP-KGTLL6L","pid":10628,"level":50,"msg":"disconnect > clients.splice is not a function","time":"2022-07-07T16:42:38.498Z","v":0}

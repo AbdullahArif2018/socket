@@ -1,0 +1,25 @@
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":50,"msg":"virtual path is:  /delidragon_sio/socket.io","time":"2022-08-04T11:20:28.275Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"Server started, Environment = production, Port = \\\\.\\pipe\\379c50dc-f2ce-4dcd-8965-729daf7ee6d0, VirtualDirPath = /delidragon_sio/socket.io ","time":"2022-08-04T11:20:28.472Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"Vendor 31 connected","time":"2022-08-04T11:20:28.620Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"connection > Total drivers: 0 ","time":"2022-08-04T11:20:28.620Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"connection > Total vendors: 1 ","time":"2022-08-04T11:20:28.621Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"SocketId yCiG2JU6H6GQ24eWAAAB connected","time":"2022-08-04T12:08:01.595Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"Driver 1 connected","time":"2022-08-04T12:08:01.595Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-08-04T12:08:01.595Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"connection > Total vendors: 1 ","time":"2022-08-04T12:08:01.595Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"Vendor 31 connected","time":"2022-08-04T12:27:38.300Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-08-04T12:27:38.300Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"connection > Total vendors: 1 ","time":"2022-08-04T12:27:38.300Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"Vendor 31 connected","time":"2022-08-04T12:28:10.446Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-08-04T12:28:10.446Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"connection > Total vendors: 1 ","time":"2022-08-04T12:28:10.446Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"Vendor 31 connected","time":"2022-08-04T12:31:22.454Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-08-04T12:31:22.454Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"connection > Total vendors: 1 ","time":"2022-08-04T12:31:22.454Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"disconnect > Driver 1 gone","time":"2022-08-04T12:38:34.869Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"SocketId RYTs5bJQh-uJbXwvAAAF connected","time":"2022-08-04T13:10:15.058Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"Driver 1 connected","time":"2022-08-04T13:10:15.058Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-08-04T13:10:15.058Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"connection > Total vendors: 1 ","time":"2022-08-04T13:10:15.058Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"disconnect > Vendor 31 gone","time":"2022-08-04T13:10:44.598Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":37992,"level":30,"msg":"disconnect > Driver 1 gone","time":"2022-08-04T13:30:43.131Z","v":0}

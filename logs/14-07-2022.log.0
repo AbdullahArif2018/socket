@@ -1,0 +1,148 @@
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:19:40.155Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:19:40.705Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:19:40.706Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:20:09.382Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:20:09.669Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:20:09.670Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:21:09.536Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:21:09.815Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:21:09.815Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:22:09.649Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:22:09.928Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:22:09.928Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:23:09.809Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:23:10.088Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:23:10.088Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Driver 1 connected","time":"2022-07-14T16:23:46.049Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:23:46.049Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:24:09.859Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:24:10.141Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:24:10.141Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:25:10.034Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:25:10.314Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:25:10.314Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:26:10.382Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:26:10.661Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:26:10.661Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:27:10.635Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:27:10.916Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:27:10.916Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":50,"msg":"disconnect > clients.splice is not a function","time":"2022-07-14T16:27:39.702Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:28:11.014Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:28:11.293Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:28:11.293Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Driver 1 connected","time":"2022-07-14T16:28:59.663Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:28:59.663Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:29:11.330Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:29:11.610Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:29:11.610Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":50,"msg":"disconnect > clients.splice is not a function","time":"2022-07-14T16:29:44.682Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:30:11.599Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:30:11.879Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:30:11.879Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Driver 1 connected","time":"2022-07-14T16:30:56.607Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:30:56.607Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:31:11.791Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:31:12.071Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:31:12.071Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":50,"msg":"disconnect > clients.splice is not a function","time":"2022-07-14T16:31:41.610Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Driver 1 connected","time":"2022-07-14T16:31:51.389Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:31:51.389Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:32:12.029Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:32:12.309Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:32:12.309Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":50,"msg":"disconnect > clients.splice is not a function","time":"2022-07-14T16:32:36.397Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Driver 1 connected","time":"2022-07-14T16:32:50.204Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:32:50.204Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:33:12.415Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:33:12.694Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:33:12.694Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:34:12.602Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:34:12.882Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:34:12.882Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:35:12.840Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:35:13.120Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:35:13.120Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:36:13.063Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:36:13.343Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:36:13.343Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:37:13.379Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:37:13.659Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:37:13.659Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":50,"msg":"disconnect > clients.splice is not a function","time":"2022-07-14T16:38:12.109Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:38:13.617Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:38:13.897Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:38:13.897Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Driver 1 connected","time":"2022-07-14T16:38:23.844Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:38:23.844Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:39:13.902Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:39:14.181Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:39:14.181Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:40:14.155Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:40:14.435Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:40:14.435Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:40:59.396Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:40:59.676Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:40:59.676Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":50,"msg":"disconnect > clients.splice is not a function","time":"2022-07-14T16:41:40.034Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:41:59.672Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:41:59.952Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:41:59.952Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Driver 1 connected","time":"2022-07-14T16:42:18.343Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:42:18.343Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:43:00.087Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:43:00.366Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:43:00.366Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:44:00.450Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:44:00.736Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:44:00.736Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Driver 1 connected","time":"2022-07-14T16:44:53.467Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:44:53.468Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:45:00.704Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:45:00.983Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:45:00.983Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:46:00.926Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:46:01.206Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:46:01.206Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:47:01.101Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:47:01.400Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:47:01.400Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:48:01.402Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:48:01.682Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:48:01.682Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:49:01.609Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:49:01.888Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:49:01.888Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:50:01.909Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:50:02.189Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:50:02.189Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:51:02.085Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:51:02.386Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:51:02.386Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:52:02.213Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:52:02.493Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:52:02.493Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":50,"msg":"disconnect > clients.splice is not a function","time":"2022-07-14T16:52:46.768Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Driver 1 connected","time":"2022-07-14T16:52:47.412Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:52:47.412Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:53:02.451Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:53:02.731Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:53:02.731Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:54:02.658Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:54:02.939Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:54:02.939Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":50,"msg":"disconnect > clients.splice is not a function","time":"2022-07-14T16:54:48.083Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:55:02.833Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:55:03.115Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:55:03.115Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Driver 1 connected","time":"2022-07-14T16:55:10.853Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:55:10.853Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:56:03.196Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToClient Input: {\"MethodName\":\"Testing\",\"Data\":\"hello\",\"DriverId\":1}","time":"2022-07-14T16:56:03.476Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Sending Testing to driver 1","time":"2022-07-14T16:56:03.476Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"Driver 987 connected","time":"2022-07-14T16:56:27.512Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"connection > Total clients: 3 ","time":"2022-07-14T16:56:27.512Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":30,"msg":"sendToServer: {\"dt\":\"Thu Jul 14 2022 21:56:28 GMT+0500 (Pakistan Standard Time)\"} ","time":"2022-07-14T16:56:27.658Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":50,"msg":"sendToServer error: Unexpected token o in JSON at position 1 ","time":"2022-07-14T16:56:27.658Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":50,"msg":"disconnect > clients.splice is not a function","time":"2022-07-14T16:56:42.158Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":22560,"level":50,"msg":"disconnect > clients.splice is not a function","time":"2022-07-14T17:53:54.004Z","v":0}

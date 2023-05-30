@@ -1,0 +1,7 @@
+listening on *: \\.\pipe\293def19-0662-4d39-a2c2-15ff37bd41e2
+a user connected
+a user connected
+a user connected
+a user connected
+a user connected
+a user connected

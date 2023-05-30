@@ -1,0 +1,42 @@
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-07-15T16:54:49.489Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-07-15T16:54:49.489Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"sendToClient Input: {\"Data\":\"[{\\\"OrderId\\\":1889}]\",\"Purpose\":\"DriverJob\",\"TypeName\":\"Driver\",\"TypeId\":82}","time":"2022-07-15T16:54:49.491Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"Sending DriverJob to driver 82","time":"2022-07-15T16:54:49.491Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"SocketId ZiUJP0eaeRUJ7PBgAAAJ connected","time":"2022-07-15T16:56:15.557Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"Driver 82 connected","time":"2022-07-15T16:56:15.557Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":50,"msg":"connection > Cannot read properties of undefined (reading 'driverId')","time":"2022-07-15T16:56:15.558Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"SocketId 1KPYEktySViQvK6UAAAK connected","time":"2022-07-15T16:56:38.697Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"Driver 82 connected","time":"2022-07-15T16:56:38.697Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-07-15T16:56:38.697Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-07-15T16:56:38.697Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"SocketId Vib3klB32wA37hsBAAAL connected","time":"2022-07-15T16:57:17.544Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"Driver 82 connected","time":"2022-07-15T16:57:17.544Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-07-15T16:57:17.544Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-07-15T16:57:17.544Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"Message Pool Cleared","time":"2022-07-15T16:58:07.037Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-07-15T16:58:08.740Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-07-15T16:58:08.740Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"sendToServer: {\"dt\":\"Fri Jul 15 2022 21:58:09 GMT+0500 (Pakistan Standard Time)\"} ","time":"2022-07-15T16:58:08.890Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":50,"msg":"sendToServer error: Unexpected token o in JSON at position 1 ","time":"2022-07-15T16:58:08.890Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-07-15T16:58:51.300Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-07-15T16:58:51.300Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"sendToClient Input: {\"Data\":\"[{\\\"OrderId\\\":1889}]\",\"Purpose\":\"DriverJob\",\"TypeName\":\"Driver\",\"TypeId\":82}","time":"2022-07-15T16:58:51.302Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"Sending DriverJob to driver 82","time":"2022-07-15T16:58:51.302Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"SocketId HswLhxw59Z8mJnEjAAAO connected","time":"2022-07-15T16:59:05.890Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"Driver 82 connected","time":"2022-07-15T16:59:05.890Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-07-15T16:59:05.890Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-07-15T16:59:05.890Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-07-15T16:59:30.013Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-07-15T16:59:30.013Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"sendToServer: {\"dt\":\"Fri Jul 15 2022 21:59:30 GMT+0500 (Pakistan Standard Time)\"} ","time":"2022-07-15T16:59:30.166Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":50,"msg":"sendToServer error: Unexpected token o in JSON at position 1 ","time":"2022-07-15T16:59:30.166Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"Message Pool Cleared","time":"2022-07-15T16:59:31.174Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"SocketId dMU65hN_0nx8uVO5AAAQ connected","time":"2022-07-15T17:00:08.757Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"Driver 82 connected","time":"2022-07-15T17:00:08.757Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-07-15T17:00:08.758Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-07-15T17:00:08.758Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"SocketId E5IiiMz_CU7plVQkAAAR connected","time":"2022-07-15T17:01:47.763Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"Driver 82 connected","time":"2022-07-15T17:01:47.763Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total drivers: 1 ","time":"2022-07-15T17:01:47.763Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-07-15T17:01:47.763Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":28156,"level":50,"msg":"disconnect > drivers.splice is not a function","time":"2022-07-15T17:03:48.238Z","v":0}

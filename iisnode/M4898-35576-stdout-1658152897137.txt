@@ -1,0 +1,15 @@
+listening on *: \\.\pipe\8507da3f-bdcf-4c8e-8d13-db1dda25599f
+a user connected
+a user connected
+a user connected
+a user connected
+a user connected
+a user connected
+a user connected
+a user connected
+a user connected
+message: get ping
+a user connected
+a user connected
+a user connected
+a user connected

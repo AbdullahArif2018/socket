@@ -1,0 +1,5 @@
+listening on *: \\.\pipe\b9e6153e-c4f8-4a97-beed-e706262fd337
+a user connected
+a user connected
+a user connected
+a user connected

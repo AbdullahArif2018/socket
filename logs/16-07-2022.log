@@ -1,0 +1,12 @@
+{"name":"serverjs","hostname":"m4898","pid":38992,"level":50,"msg":"virtual path is:  /delidragon_sio/socket.io","time":"2022-07-16T14:17:33.877Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":38992,"level":30,"msg":"Server started, Environment = production, Port = \\\\.\\pipe\\86a817ae-178d-4c06-abbc-b1e67eb2b72a, VirtualDirPath = /delidragon_sio/socket.io ","time":"2022-07-16T14:17:34.114Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":38992,"level":30,"msg":"connection > Total drivers: 0 ","time":"2022-07-16T14:17:34.201Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":38992,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-07-16T14:17:34.202Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":38992,"level":30,"msg":"sendToServer: {\"dt\":\"Sat Jul 16 2022 19:17:32 GMT+0500 (Pakistan Standard Time)\"} ","time":"2022-07-16T14:17:34.444Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":38992,"level":50,"msg":"sendToServer error: Unexpected token o in JSON at position 1 ","time":"2022-07-16T14:17:34.444Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":38992,"level":30,"msg":"connection > Total drivers: 0 ","time":"2022-07-16T14:17:44.997Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":38992,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-07-16T14:17:44.998Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":38992,"level":30,"msg":"sendToServer: {\"dt\":\"Sat Jul 16 2022 19:17:43 GMT+0500 (Pakistan Standard Time)\"} ","time":"2022-07-16T14:17:45.273Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":38992,"level":50,"msg":"sendToServer error: Unexpected token o in JSON at position 1 ","time":"2022-07-16T14:17:45.273Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":38992,"level":30,"msg":"sendToServer: \"Faraz\" ","time":"2022-07-16T14:17:56.309Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":38992,"level":50,"msg":"sendToServer error: Unexpected token F in JSON at position 0 ","time":"2022-07-16T14:17:56.309Z","v":0}

@@ -1,0 +1,6 @@
+listening on *: \\.\pipe\fba60298-af07-4900-b395-633e28b74668
+a user connected
+a user connected
+a user connected
+a user connected
+message: get ping

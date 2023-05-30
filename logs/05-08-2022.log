@@ -1,0 +1,8 @@
+{"name":"serverjs","hostname":"m4898","pid":10928,"level":50,"msg":"virtual path is:  /delidragon_sio/socket.io","time":"2022-08-05T13:39:40.589Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":10928,"level":30,"msg":"Server started, Environment = production, Port = \\\\.\\pipe\\4cc200ba-9093-44d6-abd1-8c145f9a8fe5, VirtualDirPath = /delidragon_sio/socket.io ","time":"2022-08-05T13:39:40.834Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":10928,"level":30,"msg":"connection > Total drivers: 0 ","time":"2022-08-05T13:39:40.899Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":10928,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-08-05T13:39:40.899Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":10928,"level":30,"msg":"sendToServer: {\"dt\":\"Fri Aug 05 2022 18:39:40 GMT+0500 (Pakistan Standard Time)\"} ","time":"2022-08-05T13:39:41.047Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":10928,"level":50,"msg":"sendToServer error: Unexpected token o in JSON at position 1 ","time":"2022-08-05T13:39:41.047Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":10928,"level":30,"msg":"connection > Total drivers: 0 ","time":"2022-08-05T14:49:07.992Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":10928,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-08-05T14:49:07.992Z","v":0}

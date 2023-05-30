@@ -1,0 +1,14 @@
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":50,"msg":"virtual path is:  /delidragon_sio/socket.io","time":"2022-08-03T09:32:34.276Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":30,"msg":"Server started, Environment = production, Port = \\\\.\\pipe\\fba60298-af07-4900-b395-633e28b74668, VirtualDirPath = /delidragon_sio/socket.io ","time":"2022-08-03T09:32:34.446Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":30,"msg":"connection > Total drivers: 0 ","time":"2022-08-03T09:32:34.602Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-08-03T09:32:34.603Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":30,"msg":"connection > Total drivers: 0 ","time":"2022-08-03T09:44:08.311Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-08-03T09:44:08.311Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":30,"msg":"connection > Total drivers: 0 ","time":"2022-08-03T09:44:46.932Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-08-03T09:44:46.932Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":30,"msg":"connection > Total drivers: 0 ","time":"2022-08-03T09:53:35.920Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":30,"msg":"connection > Total vendors: 0 ","time":"2022-08-03T09:53:35.920Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":30,"msg":"sendToServer: {\"dt\":\"Wed Aug 03 2022 14:53:36 GMT+0500 (Pakistan Standard Time)\"} ","time":"2022-08-03T09:53:36.069Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":50,"msg":"sendToServer error: Unexpected token o in JSON at position 1 ","time":"2022-08-03T09:53:36.069Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":30,"msg":"sendToServer: \"jjhj\" ","time":"2022-08-03T09:55:43.889Z","v":0}
+{"name":"serverjs","hostname":"m4898","pid":25584,"level":50,"msg":"sendToServer error: Unexpected token j in JSON at position 0 ","time":"2022-08-03T09:55:43.889Z","v":0}
